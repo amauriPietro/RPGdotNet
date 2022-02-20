@@ -1,0 +1,15 @@
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\bin\Debug\net6.0\RPG.exe
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\bin\Debug\net6.0\RPG.deps.json
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\bin\Debug\net6.0\RPG.runtimeconfig.json
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\bin\Debug\net6.0\RPG.dll
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\bin\Debug\net6.0\ref\RPG.dll
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\bin\Debug\net6.0\RPG.pdb
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\RPG.dll
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\ref\RPG.dll
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\RPG.pdb
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Rpg\obj\Debug\net6.0\RPG.genruntimeconfig.cache
